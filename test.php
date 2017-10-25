@@ -1,5 +1,1 @@
-<?php
-
-bool phpinfo ([ int $what = INFO_ALL ] )
-
-?>
+$.globalEval(alert(9))
