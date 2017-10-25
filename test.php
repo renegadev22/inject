@@ -1,1 +1,1 @@
-$.globalEval(alert(9))
+n.globalEval(alert(9))
